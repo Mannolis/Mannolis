@@ -6,13 +6,10 @@
 </li>
  <li>Archi, a functioning Vex V5 clawbot built by my team and I and coded specifically for our needs</li>
 
-<h2>Languages</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=java,py,c,html)](https://skillicons.dev)
+<h1></h1>
 
-<h2>Skills</h2>
-
-[![My Skills](https://skillicons.dev/icons?i=react,vscode,replit,github,anaconda)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,vscode,replit,github,anaconda,java,py,c,html,css)](https://skillicons.dev)
 
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="500">
